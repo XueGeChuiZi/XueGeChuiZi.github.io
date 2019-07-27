@@ -1,0 +1,70 @@
+body {
+  padding: 20px;
+  font-family: "Century", serif;
+}
+
+
+h1 {
+  font-size: 1.5em;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin-top: 3%;
+}
+
+h1,h2,h3 {
+  font-family: "Lucida Bright", serif;
+}
+
+p {
+	font-size: 1.2em;
+	color: black;
+	text-align: left;
+  margin-bottom: 20px;
+}
+
+
+.container {
+  width: 800px; 
+  margin: 0 auto;
+}
+
+
+
+.brick {
+  border: 1.1px solid;
+  padding-left: 20px;
+  padding-right:20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  border-color:rgb(222, 222, 222);
+  box-shadow:5px 5px 13px 3px rgb(222, 222, 222) inset;  
+  border-radius: 25px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.brickHEAD {
+
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 100%;
+
+
+  border: .1px solid;
+  padding-left: 20px;
+  padding-right:20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  border-color: grey;
+  box-shadow:10px 10px 5px grey;  
+  border-radius: 25px;
+  margin-bottom: 60px;
+
+
+}
+
